@@ -1,0 +1,18 @@
+,Unnamed: 0,File_Variable,Database_Variable
+0,0,primary_key,primary_key
+1,1,Date_Time,Date_Time
+2,2,Time_mid,Time_mid
+3,3,CNgt3nm_stdPT,3stdPt
+4,4,CNgt6nm_stdPT,6stdPT
+5,5,CNgt20nm_stdPT,20stdPT
+6,6,CNgt20nm_nonvol_stdPT,20stdpt
+7,7,Ngt100nm_LAS_stdPT,100stdpt
+8,8,Ngt100nm_LAS_nonvol_stdPT,100STDpt
+9,9,CCN_034_stdPT,ccn
+10,10,N_800to50000nm_CPSPD_stdPT,abc
+11,11,V_800to50000nm_CPSPD_stdPT,def
+12,12,N_2000to50000nm_CDP_ambPT,ghi
+13,13,V_2000to50000nm_CDP_ambPT,jkl
+14,14,Campaign,Campaign
+15,15,Date,Date
+16,16,stdPT,stdpt

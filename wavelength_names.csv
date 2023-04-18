@@ -1,0 +1,3 @@
+file_beginning,time,abs_red,abs_green,abs_blue,scat_red,scat_green,scat_blue
+FIREXAQ-LARGE-OPTICAL_DC8_,Time_mid,Abs660_stdPT,Abs532_stdPT,Abs470_stdPT,totSC700_stdPT,totSC550_stdPT,totSC450_stdPT
+DC3-LARGE-ABS_DC8_,UTC_mid,Abs_red_dry_PSAP_LARGE,Abs_green_dry_PSAP_LARGE,Abs_blue_dry_PSAP_LARGE,,,
