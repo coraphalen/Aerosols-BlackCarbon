@@ -1,0 +1,5 @@
+file_beginning,units,starting_string,tag,bin_location,num_others_beginning,num_others_end,spacer
+FIREXAQ-LARGE-CDP_DC8_,um,number_size_distribution_dNdlogD_at_bin_center_,,3,2,0,1
+FIREXAQ-LARGE-CPSPD_DC8_,um,'_bin_center_EQ_',,4,2,1,0
+FIREXAQ-LARGE-LAScold_DC8_,um,OTHER_COMMENTS:_Midpoint_diameters_of_Bins_00_to_79_determined_by_DMA-classified_ammonium_sulfate_calibrations_are:_,OTHER_COMMENTS,,2,0,
+FIREXAQ-LARGE-LAShot_DC8_,um,OTHER_COMMENTS:_Midpoint_diameters_of_Bins_00_to_98_determined_by_DMA-classified_ammonium_sulfate_calibrations_are:_,OTHER_COMMENTS,,2,0,
